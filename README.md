@@ -1,3 +1,5 @@
-_**Covid-19 Data Analysis**_
+# Covid-19 Data Analysis
 
 The total amount of cases and death based on the region
+
+## Functions Used
